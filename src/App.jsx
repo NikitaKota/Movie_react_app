@@ -89,7 +89,7 @@ useEffect(() => {
       <div className="wrapper">
         <header>
           <img src="./hero-img.png" alt = "Hero image poster"></img>
-          <h1>Find <span className="text-gradient">Movies</span> Movies You'll Enjoy Without the Hassle</h1>
+          <h1>Find <span className="text-gradient">Movies</span>You'll Enjoy Without the Hassle</h1>
           <Search searchTerm={searchTerm} setSearchTerm= {setSearchTerm}/>
         {/* <h1>{SearchTerm}</h1> */} 
         </header>
